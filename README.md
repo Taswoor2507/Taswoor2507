@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Taswoor Hossein</h1>
 <h3 align="center">A passionate MERN stack from Pakistan</h3>
-<img src='https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif' width='400' align='right' />
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KLUgJd9D0aRP-y8MJzjjLtsYexP111RLO6Xb1-VhHiE4O8tQ_VTc8xOnkQ&s' width='400' align='right' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taswoor2507&label=Profile%20views&color=0e75b6&style=flat" alt="taswoor2507" /> </p>
 
 - 🌱 I’m currently learning **Express js , Mongo DB , Node js , Backend Technologies**
