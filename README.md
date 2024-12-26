@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Taswoor Hossein</h1>
+<h3 align="center">A passionate FullStack stack from Pakistan</h3>
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width='400' align='right' />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taswoor2507&label=Profile%20views&color=0e75b6&style=flat" alt="taswoor2507" /> </p>
+
+- 🌱 I’m currently learning **Express js , Mongo DB , Node js , Backend Technologies**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Taswoor2507](https://github.com/Taswoor2507)
+
+- 💬 Ask me about **html,css ,js,react,express, node , mongodb**
+
+- 📫 How to reach me **taswoorhossein72@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/taswoor hossein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taswoor hossein" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taswoor2507&label=Profile%20views&color=0e75b6&style=flat" alt="taswoor2507" /> </p>
